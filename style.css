@@ -1,0 +1,57 @@
+
+body{
+    margin: 0;
+    font-size: 1rem;
+    font-family: 'Lato', sans-serif;
+}
+.container{
+    width: 80%;
+    max-width: 720px;
+    margin: auto;
+    border: 1px solid orange;
+    padding: 10px;
+    text-align: center;
+}
+img {
+    width: 100%;
+}
+h1 {
+    font-size: 3rem;
+}
+p {
+    font-size: 1.2rem;
+    text-align: left;
+}
+ul{
+    font-size: 1.2rem;
+}
+li{
+    list-style-type: none;
+}
+input {
+    width: 30%;
+    height: 40px;
+    border-radius: 0.5rem;
+    border: 1px solid black;
+}
+button {
+    width: 20%;
+    height: 40px;
+    font-size: 1rem;
+    border: 1px solid #333;
+    color: #333;
+    border-radius: 0.5rem;
+}
+.header {
+    background-color: orange;
+}
+.section {
+    background-color: palegoldenrod;
+}
+.main {
+    background-color: rgb(219, 202, 11);
+}
+.footer {
+    background-color: rgb(24, 24, 23);
+    color: white;
+}
